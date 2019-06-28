@@ -1,0 +1,52 @@
+{
+  "data_server" : [
+    {
+      "server1" : {
+        "id" : "CS001",
+        "nama" : "IBM001"
+      },
+      "server2" : {
+        "id" : "CS002",
+        "nama" : "LNX002"
+      }
+    },
+
+    {
+      "data_user" :
+      [
+        {
+        "id" : "USER001"
+        }
+      ]
+    }
+
+  ],
+
+  "data_siswa" : {
+    "KelasA" : {
+      "siswa1" : {
+        "id" : "SIS001",
+        "nama" : "fajar"
+      },
+      "siswa2" : {
+        "id" : "SIS02",
+        "nama" : "fikra"
+      },
+      "siswa3" : {
+        "id" : "SIS03",
+        "nama" : "ika"
+      }
+    },
+    "Kelas B" : {
+      "siswa 1" : {
+        "id" : "SISB01",
+        "nama" : "dino"
+      },
+      "siswa 2" : {
+        "id" : "SISB02",
+        "nama" : "sukur"
+      }
+    }
+  }
+
+}
