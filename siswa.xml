@@ -1,0 +1,12 @@
+<sekolah>
+  <siswa>
+    <id>001</id>
+    <nama>Fajar</nama>
+    <kelas>12</kelas>
+  </siswa>
+  <siswa>
+    <id>002</id>
+    <nama>Dini</nama>
+    <kelas>10</kelas>
+   </siswa>
+</sekolah>
